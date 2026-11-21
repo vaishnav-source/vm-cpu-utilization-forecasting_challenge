@@ -49,7 +49,7 @@ vm-cpu-utilization-forecasting/
 ├── predict.py                       # Sample inference script using the saved model
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
-
+```
 
 ## Setup
 
