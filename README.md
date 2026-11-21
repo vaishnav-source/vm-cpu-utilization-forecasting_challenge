@@ -27,7 +27,7 @@ To ensure realistic evaluation and strictly prevent **data leakage**, all Explor
 
 
 ## 📊 Model Performance Comparison 
-> ** Note: ** The values below represent the actual evaluation results obtained during my training and testing runs.
+>  Note:  The values below represent the actual evaluation results obtained during my training and testing runs.
 
 | Model | MAE | RMSE | Notes |
 | :--- | :---: | :---: | :--- |
